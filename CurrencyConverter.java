@@ -9,7 +9,7 @@ public class CurrencyConverter {
         boolean finished = false;
         while (!finished) {
             System.out.println();
-            System.out.println("What would you like to do?");
+            System.out.println("Tell me what you would like to do?");
             System.out.println("   1 - Exchange pounds into euro");
             System.out.println("   2 - Exchange euro into pounds");
             System.out.println("   0 - Exit the program");
